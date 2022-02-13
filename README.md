@@ -1,19 +1,30 @@
 # Chess Analysis
-This project has been realized in the context of EPFL Data Visualization (COM-480) course.
 
-<p align="center">
-     <a href="https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/">Go to Website</a>
-</p>
+This project has been realized in the context of EPFL COM-480 Data Visualization course. It implements a whole data analysis pipeline from preprocessing and data mining in Pandas to data vizualition using HTML, CSS, JS for the website and D3.js for the actual visulizations. The [report](reports/process_book.pdf) describes our approach, our goals and give more detailed explanations of each visualization.
+
+My contributions are significant to this project:
+* The data parsing, available in [this notebook](./notebooks/parse_raw_data.ipynb), shaping a single dump of logs into tabular data
+* The website architecture: the landing page, the animations, the navigations, etc, in [this folder](./docs).
+* The [timeline visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/timeline/timeline.html)
+* The [board control visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/heatmap/heatmap.html)
+* The [openings visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/sunburst/sunburst.html)
+
+The sole purpose of this fork is to list the project within my personal Github page and list my contributions. These lines are the only modifications to the original repository.
 
 <p align="center">
      <a href="https://www.youtube.com/watch?v=fz3awj4zVCc">Check out the screencast</a>
 </p>
 
-| Student's name | SCIPER |
-| -------------- | ------ |
-| Benhaim Julien|284558 |
-| Michelet Elisa| 282651|
-| Vignoud Julien|282142 |
+<p align="center">
+     <a href="https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/">Go to website - developped for Firefox </a>
+</p>
+
+
+| Student's name |
+| -------------- |
+| Benhaim Julien|
+| Michelet Elisa|
+| Vignoud Julien|
 
 
 ## Introduction
