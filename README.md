@@ -7,9 +7,7 @@ We implement a whole data analysis pipeline from preprocessing and data mining i
 My contributions are significant to this project:
 * The data parsing, available in [this notebook](./notebooks/parse_raw_data.ipynb), shaping a single dump of logs into tabular data
 * The website architecture: the landing page, the animations, the navigations, etc, in [this folder](./docs).
-* The [timeline visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/timeline/timeline.html)
-* The [board control visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/heatmap/heatmap.html)
-* The [openings visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/sunburst/sunburst.html)
+* 3 out of 5 visualizations: [timeline visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/timeline/timeline.html), the [board control visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/heatmap/heatmap.html) and the [openings visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/sunburst/sunburst.html)
 
 The sole purpose of this fork is to list the project within my personal Github page and list my contributions. These lines are the only modifications to the original repository.
 
