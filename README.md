@@ -22,6 +22,14 @@ The sole purpose of this fork is to list the project within my personal Github p
 </p>
 
 
+Some images of the website:
+
+
+
+![](./img/timeline.png)  |  ![](./img/openings.png)
+:-------------------------:|:-------------------------:
+![](./img/graph.png)  |  ![](./img/position.png)
+
 ## Introduction
 
 The dataset used throughout the project is a collection of chess games that occurred on the online chess platform called Lichess. Accounting around one million games, we took advantage of the dataset size to draw some tips and conclusions with a data-driven approach. We set our main objective towards providing an overview of the main aspects and strategies of chess for each player level. In other words, we aspire to give a general and visual understanding of the game that is tailored to users' familiarity with chess. For instance, beginners are more interested in basic tactics and common moves, intermediates with the most useful openings and advanced players with some examples of games from the best players in the dataset. The visualizations allow each player to explore and get insights from thousands of games, letting them take a new look at chess, use it as a tool to improve their future strategies or spark a new interest for the game.
