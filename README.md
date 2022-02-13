@@ -1,6 +1,8 @@
 # Chess Analysis
 
-This project has been realized in the context of EPFL COM-480 Data Visualization course. It implements a whole data analysis pipeline from preprocessing and data mining in Pandas to data vizualition using HTML, CSS, JS for the website and D3.js for the actual visulizations. The [report](reports/process_book.pdf) describes our approach, our goals and give more detailed explanations of each visualization.
+This project has been realized in the context of EPFL COM-480 Data Visualization course. We use logs from a million chess games to draw insights and convey them intuitively through visualizations. The gist of the project is the visualizations implementation, using D3.js.  
+
+We implement a whole data analysis pipeline from preprocessing and data mining in Python and pandas to data visualization using HTML, CSS, JS for the website and D3.js for the actual visulizations. The [report](reports/process_book.pdf) describes our approach, our goals and give more detailed explanations of each visualization.
 
 My contributions are significant to this project:
 * The data parsing, available in [this notebook](./notebooks/parse_raw_data.ipynb), shaping a single dump of logs into tabular data
