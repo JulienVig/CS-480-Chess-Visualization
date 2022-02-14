@@ -9,7 +9,7 @@ My contributions are significant to this project:
 * The website architecture: the landing page, the animations, the navigations, etc, in [this folder](./docs).
 * 3 out of 5 visualizations: [timeline visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/timeline/timeline.html), the [board control visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/heatmap/heatmap.html) and the [openings visualization](https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/viz/sunburst/sunburst.html)
 
-The sole purpose of this fork is to record the project within my personal Github page and list my contributions. These lines are the only modifications to the original repository.
+The sole purpose of this fork is to reference the project within my personal Github page and list my contributions. These lines are the only modifications to the original repository.
 
 <p align="center">
      <a href="https://www.youtube.com/watch?v=fz3awj4zVCc">Check out the screencast</a>
