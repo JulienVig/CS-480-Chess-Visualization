@@ -12,9 +12,9 @@
 <p align="center">
      <a href="https://com-480-data-visualization.github.io/data-visualization-project-2021-rookies/">The website - designed for Firefox</a>
 </p>
-This project has been realized in the context of EPFL COM-480 Data Visualization course in which I achieved a final grade of **6** over 6. We use logs from a million chess games to draw insights and convey them intuitively through visualizations. The gist of the project is the visualizations implementation, using D3.js.  
+This project has been realized in the context of EPFL COM-480 Data Visualization course in which I recevied full marks. We leveraged logs from a million chess games to draw insights and convey them intuitively through visualizations. The gist of the project is the visualizations implementation, using D3.js.  
 
-We implement a whole data analysis pipeline from preprocessing and data mining in Python and pandas to data visualization using HTML, CSS, JS for the website and D3.js for the actual visulizations. The [report](reports/process_book.pdf) describes our approach, our goals and give more detailed explanations of each visualization.
+We implement a whole data analysis pipeline from preprocessing and data mining in Python and pandas to data visualization using HTML, CSS, JS for the website and D3.js for the actual visulizations. The [report](reports/process_book.pdf) describes our approach, our goals and explaines in details each visualization.
 
 My contributions are significant to this project:
 * The data parsing, available in [this notebook](./notebooks/parse_raw_data.ipynb), shaping a single dump of logs into tabular data
@@ -23,14 +23,8 @@ My contributions are significant to this project:
 
 The sole purpose of this fork is to reference the project within my personal Github page and to state my contributions. These lines are the only modifications to the original repository.
 
-<p align="center">
-     <a href="https://www.youtube.com/watch?v=fz3awj4zVCc">Check out the screencast</a>
-</p>
-
 
 Some images of the website:
-
-
 
 ![](./img/timeline.png)  |  ![](./img/openings.png)
 :-------------------------:|:-------------------------:
